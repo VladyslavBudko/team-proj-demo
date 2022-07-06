@@ -1,25 +1,25 @@
 {
-  "name": "parcel-project-template",
+  "name": "ice-cream-project",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://VladyslavBudko.github.io/team-proj-demo",
+  "homepage": "https://daryna-pershyna.github.io/ice-cream-project",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /team-proj-demo/"
+    "build": "parcel build src/*.html --public-url /ice-cream-project/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/alvasar/ice-cream-project.git"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Plombeer-team <plombeer.team@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://github.com/alvasar/ice-cream-project/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
-  }, 
+  },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
     "parcel": "^2.6.0",
